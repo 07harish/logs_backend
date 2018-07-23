@@ -1,0 +1,26 @@
+::: Most popular articles are :::
++----------------------------------+--------+
+|              Title               | Views  |
++----------------------------------+--------+
+| Candidate is jerk, alleges rival | 338647 |
+| Bears love berries, alleges bear | 253801 |
+| Bad things gone, say good people | 170098 |
++----------------------------------+--------+
+
+
+::: Most popular authors are :::
++------------------------+--------+
+|         Title          | Views  |
++------------------------+--------+
+|    Ursula La Multa     | 507594 |
+| Rudolf von Treppenwitz | 423457 |
+| Anonymous Contributor  | 170098 |
++------------------------+--------+
+
+
+::: Days with more than 1% errors are :::
++------------+------------+
+|    Date    | Percentage |
++------------+------------+
+| 2016-07-17 |    2.28    |
++------------+------------+
